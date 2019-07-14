@@ -4,7 +4,8 @@ O aplicativo agenda_virtual desenvolvido na matéria de desenvolvimento de dispo
 
 ## Instalação do Flutter
 
-• Acesse https://flutter.dev/; Instale o Flutter conforme instruções no site oficial; Para verificar se esta tudo funcionando corretamente execute 'flutter doctor' na linha de comando.
+• Acesse https://flutter.dev/; Instale o Flutter conforme instruções no site oficial; 
+• Para verificar se esta tudo funcionando corretamente execute 'flutter doctor' na linha de comando.
 
 ## Configuração Firebase
 
@@ -15,11 +16,11 @@ O aplicativo agenda_virtual desenvolvido na matéria de desenvolvimento de dispo
 
 ## Instalaçao do Projeto
 
-• Clone do projeto 'git clone https://github.com/RegisOlivo/AgendaVirtual/'
+• Clone do projeto 'git clone https://github.com/RegisOlivo/AgendaVirtual/'.
 
 ## Configuração do projeto
 
-• Utilize o Android Studio.
+• Utilize o Android Studio;
 • Dentro de "agenda_virtual/android/app/src/build..gradle" adicione "apply plugin: 'com.google.gms.google-services'"; 
 • Dentro de "agenda_virtual/android/build.gradle" em dependencies adicione "classpath 'com.google.gms:google-services:3.2.1'"; 
-• Em "pubspec.yaml" no snackbar clique em "Packages get";
+• Em "pubspec.yaml" no snackbar clique em "Packages get".
