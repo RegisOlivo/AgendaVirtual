@@ -20,7 +20,7 @@ O aplicativo agenda_virtual desenvolvido na matéria de desenvolvimento de dispo
 
 ## Configuração do projeto
 
-• Utilize o Android Studio;
-• Dentro de "agenda_virtual/android/app/src/build..gradle" adicione "apply plugin: 'com.google.gms.google-services'"; 
-• Dentro de "agenda_virtual/android/build.gradle" em dependencies adicione "classpath 'com.google.gms:google-services:3.2.1'"; 
-• Em "pubspec.yaml" no snackbar clique em "Packages get".
+- Utilize o Android Studio;
+- Dentro de "agenda_virtual/android/app/src/build..gradle" adicione "apply plugin: 'com.google.gms.google-services'"; 
+- Dentro de "agenda_virtual/android/build.gradle" em dependencies adicione "classpath 'com.google.gms:google-services:3.2.1'"; 
+- Em "pubspec.yaml" no snackbar clique em "Packages get".
