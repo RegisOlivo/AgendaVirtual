@@ -1,12 +1,10 @@
 # agenda_virtual
 
-A new Flutter application.
+O aplicativo agenda_virtual desenvolvido na matéria de desenvolvimento de dispositivos móveis na UTFPR tem como objetivo realizar cadastro de clientes e gerenciar os gastos feitos em estabelecimentos como restaurantes, lanchonetes, etc.
 
-## Getting Started
+## Instalação do Flutter
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+Acesse https://flutter.dev/; Instale o Flutter conforme instruções no site oficial; Para verificar se esta tudo funcionando corretamente execute 'flutter doctor' na linha de comando.
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
